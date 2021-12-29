@@ -1,0 +1,15 @@
+<resources>
+    <style name="SlimSocialforInstagramTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorPrimary">@color/mainInstagram</item>
+        <item name="colorPrimaryDark">@color/mainInstagram</item>
+
+        <!--color of floating button-->
+        <item name="colorAccent">@color/mainInstagram</item>
+
+        <!--to hide the action bar-->
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+        <item name="android:navigationBarColor">@color/mainInstagram</item>
+        <item name="android:statusBarColor">@color/mainInstagram</item>
+    </style>
+</resources>

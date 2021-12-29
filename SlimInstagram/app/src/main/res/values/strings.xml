@@ -1,0 +1,15 @@
+<!--
+SlimSocial for Twitter is an Open Source app realized by Leonardo Rignanese
+ GNU GENERAL PUBLIC LICENSE  Version 2, June 1991
+-->
+<resources>
+    <string name="app_name" translatable="false">SlimSocial for Instagram</string>
+    <string name="urlInstagram" translatable="false">https://www.instagram.com</string>
+
+    <!--page error-->
+    <string name="titleNoConnection">Oops, there is a problem!</string>
+    <string name="descriptionNoConnection">Try to check the connection and refresh.</string>
+    <string name="awards">This is an Open Source app.</string>
+    <!--end page error-->
+
+</resources>

@@ -1,0 +1,13 @@
+<resources>
+
+    <!-- Standard theme. -->
+    <style name="SlimSocialforInstagramTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorPrimary">@color/mainInstagram</item>
+        <item name="colorPrimaryDark">@color/mainInstagram</item>
+
+        <!--color of floating button-->
+        <item name="colorAccent">@color/mainInstagram</item>
+    </style>
+
+
+</resources>
